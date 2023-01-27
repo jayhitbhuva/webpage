@@ -1,0 +1,71 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.perelix{
+    background-image:url("aa.jpg");
+    min-height:500px ;
+    background-attachment:fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+}
+.logo{
+    width: 20%;
+}
+.log{
+    width:50%;
+  
+    
+
+}
+#nav{
+    display: flex;
+    height: auto;
+}
+.nav{
+    text-align:right;
+    font-size: 17px;
+    color: black;
+
+    padding-top: 45px;
+    width: 80%;
+}
+.nav-a{
+    text-decoration: none;
+    color: black;
+    
+    margin-left: 25px;
+}
+.r2{
+    display: flex;
+    margin-top: 10px; 
+}
+.r2c1,.r2c2,.r2c3,.r2c4{
+    background-color: rgba(165, 42, 42, 0.548);
+    height: 400px;
+    width: 100%;
+    margin-left: 4px;
+    margin-right: 4px;
+  
+}
+.btext{
+    text-align:center;
+    padding-top: 15%;
+    color: bisque;
+    transition: 1.5s;
+    font-family: cursive;
+    
+}
+.btext:hover{
+    text-shadow: 0px 0px 10px  rgb(255, 255, 255);
+
+}
+.welcome{
+    text-align: center;
+    color: aliceblue;
+}
+#p1{
+    font-size: medium;
+}
+
